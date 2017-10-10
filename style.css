@@ -1,0 +1,24 @@
+.p{
+position:absolute;
+top:250px;
+left:500px;
+color:white;
+font-size:30px;
+
+}
+
+.pic{
+	position:absolute;
+	top:50px;
+	left:550px;
+	
+	
+}
+
+.link{
+	position:absolute;
+	top:600px;
+	left:560px;
+	font-size:50px;
+	
+}
